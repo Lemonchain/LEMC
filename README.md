@@ -1,1 +1,2 @@
-# LEMC
+# LEMC(LEMONCHAIN)
+## Contract Address : 0xe15b6cc249af44f2057f85a609285519a318f2ff
